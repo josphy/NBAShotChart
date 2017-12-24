@@ -6,3 +6,8 @@
     width: 550px;
     margin: auto;
 }
+
+.char-type-radio{
+    padding-left: 6px;
+    margin-top: 15px;
+}
