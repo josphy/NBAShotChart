@@ -1,4 +1,4 @@
-This is a NBA shot statistics visualization project constructed using React.
+This is a NBA shot statistics visualization web page constructed using React.
 
 
 
